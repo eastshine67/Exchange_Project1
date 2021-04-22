@@ -37,14 +37,14 @@ public class PrintClass {
 	public void printChange(double fifthythousandWon, double tenthousandWon, double fivethousandWon,
 			double thousandWon,double fivehundredWon, double hundredWon, double fifthyWon, double tenWon) {
 		System.out.println("원화 거스름");
-		System.out.println("50000원 : " + (int)fifthythousandWon);
-		System.out.println("10000원 : " + (int)tenthousandWon);
-		System.out.println("5000원 : " + (int)fivethousandWon);
-		System.out.println("1000원 : " + (int)thousandWon);
-		System.out.println("500원 : " + (int)fivehundredWon);
-		System.out.println("100원 : " + (int)hundredWon);
-		System.out.println("50원 : " + (int)fifthyWon);
-		System.out.println("10원 : " + (int)tenWon);
+		System.out.println("50000 원 : " + (int)fifthythousandWon);
+		System.out.println("10000 원 : " + (int)tenthousandWon);
+		System.out.println("5000 원 : " + (int)fivethousandWon);
+		System.out.println("1000 원 : " + (int)thousandWon);
+		System.out.println("500 원 : " + (int)fivehundredWon);
+		System.out.println("100 원 : " + (int)hundredWon);
+		System.out.println("50 원 : " + (int)fifthyWon);
+		System.out.println("10 원 : " + (int)tenWon);
 	}
 
 }
